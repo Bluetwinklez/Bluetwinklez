@@ -11,7 +11,7 @@ I build practical tools for desktop, mobile and the web, with interests in autom
 | [Sports Research](https://github.com/Bluetwinklez/basketbol-tahmin) | Reproducible basketball and football probability research | Python |
 | [Eczane Etiket & Eczam](https://github.com/Bluetwinklez/eczane-etiket) | Pharmacy labels, inventory, POS and mobile access | Python, Node.js, SQLite, Capacitor |
 | [Feyzullah Office](https://github.com/Bluetwinklez/feyzullah-office) | Desktop workspace for coding agents | Electron, JavaScript |
-| [NFC Tag Master](https://github.com/Bluetwinklez/app-) | Read, write and organize NFC tags | Flutter, Dart, iOS, Android |
+| [NFC Tools: Read & Write](https://github.com/Bluetwinklez/app-) | Read, write and organize NFC tags | Flutter, Dart, iOS, Android |
 | [Xavier Discord Bot](https://github.com/Bluetwinklez/Server-manage-discord-bot) | Community moderation, music and optional AI | Node.js, Discord.js |
 | [Job Search Assistant](https://github.com/Bluetwinklez/job-search) | Résumés, job discovery and application tracking | Python, Streamlit, SQLite |
 | [Instagram Following Manager](https://github.com/Bluetwinklez/unfollow-instagram-dashboard) | Account review and a local extension workspace | JavaScript, Chrome MV3 |
