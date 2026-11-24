@@ -22,7 +22,7 @@ From local-first research tools and Windows networking utilities to multi-agent 
 | 🧠 **[Noesis](https://github.com/Bluetwinklez/noesis)** | Local-first notes, databases and source-grounded AI research notebooks. | Tauri · React · TypeScript · Rust | Active |
 | 🏀 **[Basketbol Tahmin](https://github.com/Bluetwinklez/basketbol-tahmin)** | Basketball probability research (EuroLeague, EuroCup, NBA, NBL), Elo/score modeling and walk-forward backtesting. | Python | Active |
 | 💊 **[Eczane Etiket](https://github.com/Bluetwinklez/eczane-etiket)** | Pharmacy label printing, inventory management, POS and mobile companion app. | Python · Node.js · SQLite · Capacitor | Active |
-| 📱 **[NFC Tag Master (`app-`)](https://github.com/Bluetwinklez/app-)** | Multilingual Flutter app for reading, writing and organizing NFC tags on iOS and Android. | Flutter · Dart | Active |
+| 📱 **[NFC Tag Master](https://github.com/Bluetwinklez/nfc-tag-master)** | Multilingual Flutter app for reading, writing and organizing NFC tags on iOS and Android. | Flutter · Dart | Active |
 | 🤖 **[Feyzullah Agents](https://github.com/Bluetwinklez/feyzullah-agents)** | Multi-agent AI workspace combining planning, execution and Noesis knowledge base integration. | JavaScript · Node.js | Active |
 | 🏢 **[Feyzullah Office](https://github.com/Bluetwinklez/feyzullah-office)** | Pixel-art Windows desktop workspace for running Claude Code, Codex and Antigravity CLI agents together. | Electron · JavaScript | Active |
 
@@ -33,9 +33,9 @@ From local-first research tools and Windows networking utilities to multi-agent 
 | **[Instagram Following Dashboard](https://github.com/Bluetwinklez/unfollow-instagram-dashboard)** | Chrome extension for reviewing Instagram following lists and local workspaces | Maintenance |
 | **[Server Manage Discord Bot](https://github.com/Bluetwinklez/Server-manage-discord-bot)** | Modular Discord bot with moderation, music, economy and optional AI admin | Maintenance |
 | **[Job Search Toolkit](https://github.com/Bluetwinklez/job-search)** | Python toolkit for resume generation, job discovery and application tracking | Maintenance |
-| **[Kepenk Website Template](https://github.com/Bluetwinklez/website-tempalte-kepenk)** | Responsive service-business site template with Firebase auth and admin dashboard | Maintenance |
+| **[Kepenk Website Template](https://github.com/Bluetwinklez/website-template-kepenk)** | Responsive service-business site template with Firebase auth and admin dashboard | Maintenance |
 | **[Desktop AI Agents](https://github.com/Bluetwinklez/desktop-ai-agents)** | Windows PowerShell launchers and helpers for local AI agents | Utility |
-| **[Minecraft AI Agent](https://github.com/Bluetwinklez/minecraf-ai-agent)** | AI agent mod prototype (active work tracked in pull requests) | Experiment |
+| **[Minecraft AI Agent](https://github.com/Bluetwinklez/minecraft-ai-agent)** | AI agent mod prototype (active work tracked in pull requests) | Experiment |
 | **[Vibecoded](https://github.com/Bluetwinklez/vibecoded)** | Experimental prototypes and explorations | Experiment |
 
 ## What I focus on
